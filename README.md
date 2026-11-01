@@ -1,11 +1,12 @@
 # Jalur Niaga Nusantara
 
 Media pembelajaran interaktif IPS Kelas VIII — **Perdagangan Antarpulau**.
-Dibuat oleh **Nur Halimah, S.Pd.** · SMP YPK.
 
-Berisi dua tampilan untuk siswa (statis, tanpa server dan tanpa pengumpulan data):
+© 2026 · **Nur Halimah, S.Pd.** · SMP YPK BONTANG. Seluruh hak cipta dilindungi.
 
-- `/` — **Atlas Siswa**: peta Indonesia 38 provinsi, profil dan potensi tiap pulau.
-- `/ulasan` — **Ulasan**: ditambah kebutuhan wilayah dan jalur kapal perdagangan antarpulau.
+Dua halaman statis (tanpa server, tanpa pengumpulan data):
 
-Folder `public/` diterbitkan oleh Vercel (lihat `vercel.json`). Panduan pemasangan ada di `PANDUAN-HOSTING.md`.
+- `/` — media utama: jendela sambutan, mode **Siswa** (langsung) atau **Guru** (kata sandi; data guru terenkripsi).
+- `/ulasan` — ulasan setelah pelajaran: peta, kebutuhan wilayah, dan jalur kapal.
+
+Folder `public/` diterbitkan oleh Vercel (lihat `vercel.json`). Panduan pemasangan: `PANDUAN-HOSTING.md`.
